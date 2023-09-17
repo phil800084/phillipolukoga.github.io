@@ -1,6 +1,6 @@
 ---
 title: Hello HomeLab
-date: 
+date: 2023-09-17 12:19:00:00 -500
 categories: [homelab,hardware]
 tags: [servers,dell,hp,supermicro] # TAG names should always be lowercase
 ---

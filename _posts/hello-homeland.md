@@ -20,12 +20,6 @@ Installing asdf is a simple two step process. First you install asdf, and then a
 
 ## Photos
 
-
-
-
-
-
-
 * one
 * two
 * three
